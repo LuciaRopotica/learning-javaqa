@@ -1,4 +1,5 @@
 package com.softvision.qa.automation.groupa;
+//Sa se implimenteze o metoda care primeste ca parametru 2 liste de numere si returneaza numerele comune celor doua liste.
 
 import java.util.ArrayList;
 import java.util.Arrays;

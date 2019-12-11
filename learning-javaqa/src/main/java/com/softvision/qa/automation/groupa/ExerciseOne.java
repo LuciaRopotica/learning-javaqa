@@ -5,7 +5,7 @@ public class ExerciseOne {
     // sa se afiseze pentru fiecare lungimea si numarul de spatii.
 
     public static void main (String[] args) {
-    String[] toppings = {"Blue cheese", "Pepperoni", "Mushrooms", "Black Olives"};
+    String[] toppings = {"Blue cheese", "Pepperoni", "Mushrooms", "Black  Olives"};
     printInfo(toppings);
 }
 

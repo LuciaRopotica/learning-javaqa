@@ -16,11 +16,11 @@ public class ExerciseTwo {
         Scanner scan = new Scanner(System.in);
         System.out.println("Da o valoare lui n:");
         n = scan.nextInt();
-        Calcul();
+        calcul();
         scan.close();
     }
 
-    public static void Calcul() {
+    public static void calcul() {
         if (n < 0) {
             System.out.println("Valoarea lui n nu poate fi mai mica de 0.");
         } else {
